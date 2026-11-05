@@ -31,4 +31,4 @@ Kotlin and Jetpack Compose. Baseline profiles speed up app startup. Appium runs 
 `PHP` `TypeScript` `Kotlin` `Go` `Terraform` `PostgreSQL` `Redis` `Docker` `AWS` `GitHub Actions`
 
 ---
-📫 [LinkedIn](https://www.linkedin.com/in/0hasan-raad/) · [hasan-raad@bk.ru](mailto:hasan-raad@bk.ru) · [automasterpro.net](https://automasterpro.net)
+📫 [LinkedIn](https://www.linkedin.com/in/0hasan-raad/)
